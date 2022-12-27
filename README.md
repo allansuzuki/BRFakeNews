@@ -10,6 +10,8 @@ This project has he main purpose of how neural networks can be used and build a 
 
 [Link to complete project](https://github.com/allansuzuki/BRFakeNews/blob/main/Classifying_Fake_News.ipynb)
 
+`buildDataset.py` is the code to extract the original data in [FakeBR-Corpus repo](https://github.com/roneysco/Fake.br-Corpus)  in the necessary format to work on, stored in `data` folder.
+
 **Personal pages:**
 * [LinkedIn](https://www.linkedin.com/in/allanysuzuki/)
 * [Portfólio](https://github.com/allansuzuki/portfolio)
